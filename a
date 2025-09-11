@@ -1,11 +1,1 @@
-\documentclass[12pt]{article}
-\usepackage[margin=1in]{geometry}
-\usepackage{graphicx}    % For including figures
-\usepackage{booktabs}    % For tables
-\usepackage{float}       % For figure placement
-\usepackage{hyperref}    % For links
-\usepackage{caption}     % For figure captions
-\usepackage{enumitem}    % For custom lists
-\begin{document}
-nnj
-\end{document}
+
